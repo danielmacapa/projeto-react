@@ -35,6 +35,12 @@ export default function App() {
       case 7:
         frase = "A natureza não faz nada em vão";
         break;
+      case 8:
+        frase = "O homem solitário é uma besta ou um deus";
+        break;
+      case 9:
+        frase = "O ignorante afirma, o sábio duvida, o sensato reflete";
+        break;
       default:
         frase = "ca ca ca";
     }
